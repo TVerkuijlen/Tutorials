@@ -32,7 +32,7 @@
     "marked": "0.3.12",
     "mkdirp": "^0.5.1",
     "openurl": "^1.1.1",
-    "progress": "^2.0.0",
+    "progress": "^2.0.3",
     "recursive-readdir": "^2.2.1",
     "request": "^2.85.0",
     "request-promise-native": "^1.0.5",
