@@ -34,7 +34,7 @@
     "openurl": "^1.1.1",
     "progress": "^2.0.0",
     "recursive-readdir": "^2.2.1",
-    "request": "^2.85.0",
+    "request": "^2.88.2",
     "request-promise-native": "^1.0.5",
     "fs-extra": "^6.0.0"
   }
